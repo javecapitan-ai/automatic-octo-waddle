@@ -68,5 +68,5 @@ if Y == '1':
     Required_Period(Y,Z)  
 
 elif Y == '2':
-    required_payment(Y,Z)   
+    required_payment(Y,Z)
         
